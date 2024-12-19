@@ -54,7 +54,7 @@ export default function Home() {
           <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
             <div className="bg-white p-6 rounded-lg max-w-md w-full text-black">
               <h2 className="text-2xl font-bold text-pink-600 mb-4">Yay! 🎉</h2>
-              <p className="mb-4">Call me at: +976 99999999</p>
+              <p className="mb-4">Call me at: +976 88180956</p>
               <p className="mb-4">
                 {`Let's meet at Sukhbaatar Square! Call me or text me! 🌟`}
               </p>
